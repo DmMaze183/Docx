@@ -28,8 +28,8 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Introduction
-      url: /mydoc_introduction.html
+    - title: Обзор нативных библиотек
+      url: /Overview-of-library.html
       output: web, pdf
 
     - title: Supported features
