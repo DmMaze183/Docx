@@ -23,8 +23,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
-      url: /index.html
+    - title: Проверка работы
+      url: /mydoc_main.html
       output: web, pdf
       type: homepage
 
