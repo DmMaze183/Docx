@@ -50,7 +50,7 @@ feedback_email: tomjoht@gmail.com
 highlighter: rouge
 # library used for syntax highlighting
 
-markdown: kramdown
+markdown: GFM
 kramdown:
  input: GFM
  auto_ids: true
