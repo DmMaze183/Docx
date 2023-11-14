@@ -32,8 +32,8 @@ entries:
       url: /Overview-of-library.html
       output: web, pdf
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
+    - title: Синтаксис Markdown
+      url: /mydoc_markdown_rules.html
       output: web, pdf
 
     - title: About the theme author
