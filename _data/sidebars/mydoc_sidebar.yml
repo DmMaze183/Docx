@@ -33,7 +33,7 @@ entries:
       output: web, pdf
 
     - title: Синтаксис Markdown
-      url: /mydoc_markdown_rules.html
+      url: /markdown_rules.html
       output: web, pdf
 
     - title: About the theme author
