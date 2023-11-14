@@ -1,3 +1,14 @@
+---
+title: Синтаксис markdown
+tags: [formatting]
+keywords: 
+last_updated: November 13, 2023
+summary: "Проверяем работу"
+sidebar: mydoc_sidebar
+permalink: markdown_rules.html
+folder: mydoc
+---
+
 # Синтаксис Extended Markdown
 
 Итоговое отображение элементов есть в статье [О портале документации](https://mcs.mail.ru/docs/ru/additionals/start/about-help).
